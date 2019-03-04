@@ -337,9 +337,13 @@ body{
 	/* Header */
 	.header__inner{
 		padding: 0 20px;
+		width: 100%;
 	}
 
 	/* Menu */
+	.menu__items{
+		width: 100%;
+	}
 	.menu__item a{
 		width: 256px;
 	}
@@ -370,6 +374,7 @@ body{
 	/* Footer */
 	.footer__inner{
 		padding: 0 20px;
+		width: 100%;
 	}
 
 }
