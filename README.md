@@ -1,1 +1,1 @@
-# start-page
+# Start page with Owl Carousel
