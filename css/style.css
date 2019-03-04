@@ -171,7 +171,7 @@ body{
     top: 0;
 	width: 28px;
 	height: 59px;
-	background: url(/images/nav-prev.png) top left no-repeat;
+	background: url(../images/nav-prev.png) top left no-repeat;
 }
 .owl-carousel .owl-nav button.owl-next{
 	position: absolute;
@@ -189,7 +189,7 @@ body{
 	right: 0;
 	width: 28px;
 	height: 59px;
-	background: url(/images/nav-next.png) top left no-repeat;
+	background: url(../images/nav-next.png) top left no-repeat;
 }
 .owl-nav{
 	margin-top: 0!important;
