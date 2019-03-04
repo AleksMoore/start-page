@@ -1,0 +1,44 @@
+@font-face {
+  font-family: 'GloberThin';
+  src: url('/fonts/GloberThin.eot');
+  src: url('/fonts/GloberThin.eot?#iefix') format('embedded-opentype'),
+       url('/fonts/GloberThin.svg#GloberThin') format('svg'),
+       url('/fonts/GloberThin.ttf') format('truetype'),
+       url('/fonts/GloberThin.woff') format('woff'),
+       url('/fonts/GloberThin.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'GloberRegular';
+  src: url('/fonts/GloberRegular.eot');
+  src: url('/fonts/GloberRegular.eot?#iefix') format('embedded-opentype'),
+       url('/fonts/GloberRegular.svg#GloberRegular') format('svg'),
+       url('/fonts/GloberRegular.ttf') format('truetype'),
+       url('/fonts/GloberRegular.woff') format('woff'),
+       url('/fonts/GloberRegular.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'GloberLight';
+  src: url('/fonts/GloberLight.eot');
+  src: url('/fonts/GloberLight.eot?#iefix') format('embedded-opentype'),
+       url('/fonts/GloberLight.svg#GloberLight') format('svg'),
+       url('/fonts/GloberLight.ttf') format('truetype'),
+       url('/fonts/GloberLight.woff') format('woff'),
+       url('/fonts/GloberLight.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'GloberBold';
+  src: url('/fonts/GloberBold.eot');
+  src: url('/fonts/GloberBold.eot?#iefix') format('embedded-opentype'),
+       url('/fonts/GloberBold.svg#GloberBold') format('svg'),
+       url('/fonts/GloberBold.ttf') format('truetype'),
+       url('/fonts/GloberBold.woff') format('woff'),
+       url('/fonts/GloberBold.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
